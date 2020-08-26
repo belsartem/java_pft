@@ -9,7 +9,7 @@ public class MyFirstProgram {
         double y2 = 15.5;
         Point p1 = new Point(x1, y1);
         Point p2 = new Point(x2, y2);
-        
+
         System.out.println("Distance between two dots with coordinates: " + "A(" + x1 + ";" + y1 + ")" + " & " + "B(" + x2 + ";" + y2 + ") " + "equals to: " + distance(p1, p2));
         System.out.println("Distance between two dots with coordinates: " + "A(" + p1.x + ";" + p1.y + ")" + " & " + "B(" + p2.x + ";" + p2.y + ") " + "equals to: " + p1.distance(p2));
     }

@@ -3,11 +3,11 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/sandbox/build.gradle" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/pft/sandbox/MyFirstProgram.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/pft/sandbox/MyFirstProgram.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/pft/sandbox/Point.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/pft/sandbox/PointIncorrect.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/pft/sandbox/Rectangle.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/pft/sandbox/Square.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sandbox/src/test/java/ru/stqa/pft/sandbox/PointTests.java" charset="UTF-8" />
     <file url="PROJECT" charset="windows-1252" />
   </component>
 </project>
